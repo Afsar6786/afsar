@@ -1,4 +1,4 @@
 print ("Hello Gowtham")
-a = 10
-b = 20
-c = 30
+a = 100
+b = 200
+c = 300
